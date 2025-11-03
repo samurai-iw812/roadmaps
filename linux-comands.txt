@@ -1,0 +1,100 @@
+💻 Linux Commands and Their Categories
+
+When you start using Linux 🐧, the terminal becomes your best friend 💪. It looks like just a black screen with text, but it’s actually one of the most powerful tools ever made ⚙️.
+With simple commands, you can control everything — files, users, networks, processes, and even hardware!
+
+Here’s a list of important Linux commands 🧠 divided into clear categories so you can understand them easily 👇
+
+🟢 1. Basic Commands
+
+These are the first commands you should learn. They help you move around and see what’s inside your system.
+
+Command	Description
+pwd	📍 Shows the current working directory (where you are).
+ls	📂 Lists files and folders in the current directory.
+cd	🚪 Changes the current directory.
+clear	🧹 Clears the terminal screen.
+echo	🗣️ Prints text or variables to the screen.
+man	📘 Shows the manual/help page for any command.
+history	⏳ Shows the list of commands you used before.
+📁 2. File and Directory Management
+
+Linux is all about files, so these commands help you create, move, copy, and delete them easily.
+
+Command	Description
+touch file.txt	📝 Creates a new empty file.
+mkdir folder	📦 Creates a new directory (folder).
+cp source.txt destination.txt	📄 Copies files or folders.
+mv old.txt new.txt	🔁 Moves or renames files.
+rm file.txt	🗑️ Deletes a file.
+rmdir folder	🧺 Removes an empty folder.
+cat file.txt	📖 Displays the content of a file.
+less file.txt	📜 Views large files page by page.
+find /home -name "file.txt"	🔍 Searches for files by name.
+🔒 3. Permissions and Ownership
+
+Linux is secure because of its permission system 🧱. These commands help you control who can access or edit your files.
+
+Command	Description
+chmod 755 file	🔑 Changes file permissions (read, write, execute).
+chown user file	👤 Changes the owner of a file.
+chgrp group file	👥 Changes the group ownership.
+sudo command	🧰 Runs a command as the superuser (root).
+⚙️ 4. System and Process Management
+
+These commands let you monitor and control what’s happening on your system — like which programs are running or how much memory you’re using.
+
+Command	Description
+top	📊 Shows real-time system processes.
+htop	🚀 An improved, colorful version of top.
+ps	🧩 Lists running processes.
+kill PID	💀 Stops a process by its ID.
+df -h	💾 Shows disk space usage.
+free -h	🧠 Displays memory usage.
+uptime	⏱️ Shows how long the system has been running.
+🌐 5. Network Commands
+
+Linux is used a lot in networking 🛰️. These commands help you check connections, test the internet, and troubleshoot issues.
+
+Command	Description
+ping google.com	📡 Tests internet connection.
+ifconfig or ip a	🌍 Shows network interfaces and IP addresses.
+netstat -tuln	🔌 Lists open ports and network connections.
+curl	🌐 Sends HTTP requests or downloads data from URLs.
+wget	📥 Downloads files from the internet.
+ssh user@host	🔐 Connects securely to another machine.
+📦 6. Package Management
+
+Depending on your Linux distro, you’ll use different tools to install or remove software 🧰.
+
+Command	Description
+apt update	🔄 Updates the list of available packages (Debian/Ubuntu).
+apt install package	📦 Installs a new package.
+apt remove package	🗑️ Removes a package.
+dnf install package	🧱 Installs packages on Fedora or RHEL.
+pacman -S package	🐉 Installs packages on Arch Linux.
+👤 7. User Management
+
+For systems with multiple users 👥, these commands let you add, remove, and manage accounts.
+
+Command	Description
+whoami	🙋‍♂️ Shows the current logged-in user.
+adduser username	➕ Adds a new user.
+passwd username	🔑 Changes a user’s password.
+deluser username	❌ Deletes a user.
+groups	👥 Lists groups the current user belongs to.
+🧩 8. Useful Shortcuts & Tips
+
+Ctrl + C → ✋ Stops a running process.
+
+Ctrl + L → 🧹 Clears the screen (same as clear).
+
+!! → ⚡ Runs the last command again.
+
+Tab → 🔍 Auto-completes commands or filenames.
+
+💡 Why Learning Commands Matters
+
+Learning Linux commands gives you real power 💪. You start understanding what’s happening behind the scenes instead of just clicking buttons. It also helps you become faster, smarter, and more confident with your system 🧠.
+
+Once you get used to the terminal, it feels like you’re talking directly to your computer — and it listens 👂.

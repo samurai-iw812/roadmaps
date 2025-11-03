@@ -1,0 +1,182 @@
+🟢 Stage 1 — The Basics (Weeks 1–4)
+
+When you start learning networking, you need to understand the core ideas first.
+Forget memorizing — just try to visualize how data moves from one device to another.
+
+Topics to learn:
+
+What is a network? (LAN, WAN, MAN)
+
+What are Hosts, Switches, Routers, and IPs?
+
+The OSI Model (7 layers) and TCP/IP Model (4 layers).
+
+IP Addressing (IPv4, basic idea of IPv6).
+
+Subnetting (how networks are divided).
+
+Important protocols: ARP, ICMP, DNS, DHCP.
+
+Free resources:
+
+YouTube: search “OSI model explained easy” or “IP addressing for beginners.”
+
+Cisco NetAcad (free registration) for basic networking courses.
+
+Websites like GeeksforGeeks or FreeCodeCamp (networking section).
+
+Practice ideas:
+
+Use ping, ipconfig or ifconfig, and traceroute.
+
+Try to draw a simple LAN with 3 PCs and one router.
+
+Calculate subnets for small networks (like /24 → /26).
+
+🟡 Stage 2 — Switching & Routing (Weeks 5–8)
+
+Now it’s time to understand how data moves inside a network.
+Switches connect devices inside a LAN, and routers connect different networks.
+
+Topics to focus on:
+
+VLANs and trunking (how to split a network virtually).
+
+Static routing vs Dynamic routing.
+
+Intro to routing protocols: RIP, OSPF, BGP (basic idea).
+
+NAT and PAT (how private IPs connect to the internet).
+
+Free tools to use:
+
+🧩 Cisco Packet Tracer — amazing free tool to simulate networks.
+
+🧠 GNS3 — for advanced simulations.
+
+🦈 Wireshark — to analyze packets and understand what’s happening.
+
+Practice idea:
+
+Create 3 VLANs in Packet Tracer, and make routing between them.
+
+Capture packets with Wireshark and analyze DHCP or DNS requests.
+
+🔵 Stage 3 — Network Services (Weeks 9–12)
+
+At this point, you should understand how basic services work on a network.
+
+Learn about:
+
+DHCP (automatic IP assignment).
+
+DNS (domain name to IP).
+
+HTTP, HTTPS, and SSL/TLS.
+
+SSH, FTP, SMTP (basic understanding).
+
+Client-server model vs Peer-to-Peer.
+
+Mini projects:
+
+Set up a small DHCP and DNS server in a virtual lab.
+
+Create a simple HTTP server on Linux using Python or Apache.
+
+Use Wireshark to see a DNS request in action.
+
+🔒 Stage 4 — Network Security (Weeks 13–16)
+
+This is where networking meets cybersecurity.
+You’ll learn how to secure your connections and understand attacks.
+
+Main topics:
+
+Firewalls (and how rules work).
+
+ACLs (Access Control Lists).
+
+IDS/IPS basics.
+
+VPNs (IPSec, SSL).
+
+Network scanning & analysis tools.
+
+Free tools:
+
+🧰 Nmap — scan networks and discover devices.
+
+🦈 Wireshark — packet analysis.
+
+🔐 pfSense — open-source firewall to play with.
+
+Practice idea:
+
+Run a safe local Nmap scan on your own network.
+
+Create simple firewall rules and test connectivity.
+
+🧱 Stage 5 — Advanced Networking & Cloud (Weeks 17–24)
+
+When you’re comfortable with the basics, move into modern topics.
+
+Learn about:
+
+BGP (routing between ISPs).
+
+SDN (Software Defined Networking).
+
+Network Automation (using Python + Ansible).
+
+Cloud Networking (AWS, Azure, GCP — focus on VPCs and subnets).
+
+Docker & Kubernetes networking (basic idea).
+
+Projects:
+
+Write a Python script using netmiko to connect to a router and pull info.
+
+Create a small virtual network inside AWS free tier.
+
+🧠 Stage 6 — Practice, Document & Grow (Continuous)
+
+Networking is all about hands-on experience.
+Don’t just read — build, break, fix, repeat.
+
+What to do:
+
+Build mini labs in Packet Tracer or GNS3 every week.
+
+Document your setups in a GitHub repo (with screenshots).
+
+Join networking communities (Reddit, Discord, or forums).
+
+Learn from mistakes — that’s how you really grow.
+
+Certifications (optional but helpful):
+
+CCNA (Cisco Certified Network Associate).
+
+CompTIA Network+.
+You can find free study materials and videos for both on YouTube.
+
+🧩 Recommended Free Tools & Platforms
+
+Cisco Packet Tracer — simulation.
+
+Wireshark — packet analysis.
+
+GNS3 / EVE-NG — advanced labs.
+
+VirtualBox — to build test environments.
+
+FreeCodeCamp, YouTube, and Coursera (audit mode) — free courses.
+
+💬 My Notes
+
+Learning networking changed how I see computers.
+It’s not just about connecting cables — it’s about understanding how every single packet finds its way.
+Once you understand networks, cybersecurity becomes 10x easier.
+
+So yeah, this roadmap is what I’m following, all free, all practical, and 100% written by me 💪🐧

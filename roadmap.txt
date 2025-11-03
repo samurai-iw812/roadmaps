@@ -1,0 +1,157 @@
+Here is a comprehensive list of **free resources** to help you learn and grow as a bug bounty hunter. These resources cover everything from cybersecurity fundamentals to advanced exploitation techniques, all without any cost.
+
+---
+
+### **1. Fundamentals and Web Application Security**
+#### **a. Tutorials and Guides**
+- **OWASP Web Security Testing Guide**: A free, open-source guide covering web application security testing.
+  - Website: [OWASP WSTG](https://owasp.org/www-project-web-security-testing-guide/)
+  
+- **PortSwigger Web Security Academy**: Interactive tutorials and labs for learning about vulnerabilities like SQL Injection, XSS, CSRF, and more.
+  - Website: [PortSwigger Academy](https://portswigger.net/web-security)
+
+- **Bugcrowd University**: Free courses on vulnerability discovery, including SQL Injection, XSS, and more.
+  - Website: [Bugcrowd University](https://www.bugcrowd.com/bugcrowd-university)
+
+- **OWASP Top 10**: Learn about the most critical web application security risks.
+  - Website: [OWASP Top 10](https://owasp.org/www-project-top-ten/)
+
+#### **b. YouTube Channels**
+- **LiveOverflow**: Excellent videos on web security, reverse engineering, and CTF challenges.
+  - Channel: [LiveOverflow](https://www.youtube.com/@LiveOverflow)
+
+- **HackerSploit**: Tutorials on ethical hacking, penetration testing, and bug bounty hunting.
+  - Channel: [HackerSploit](https://www.youtube.com/@Hackersploit)
+
+- **NetSec Explained**: Beginner-friendly explanations of cybersecurity concepts.
+  - Channel: [NetSec Explained](https://www.youtube.com/@NetSecExplained)
+
+---
+
+### **2. Vulnerability Discovery**
+#### **a. Platforms for Practice**
+- **TryHackMe**: Free rooms for learning and practicing cybersecurity skills, including web app hacking.
+  - Website: [TryHackMe](https://tryhackme.com/)
+
+- **HackTheBox Academy**: Free tier available with beginner-friendly content on web vulnerabilities.
+  - Website: [HackTheBox Academy](https://academy.hackthebox.com/)
+
+- **PentesterLab**: Free exercises on specific vulnerabilities like SQL Injection and XSS.
+  - Website: [PentesterLab](https://pentesterlab.com/exercises)
+
+- **DVWA (Damn Vulnerable Web Application)**: A PHP/MySQL web app designed to be vulnerable. You can download it for free.
+  - GitHub: [DVWA](https://github.com/digininja/DVWA)
+
+- **Mutillidae**: An intentionally vulnerable web application for learning and practicing.
+  - Website: [Mutillidae](https://sourceforge.net/projects/mutillidae/)
+
+#### **b. Tools**
+- **Burp Suite Community Edition**: Free version of Burp Suite for intercepting and analyzing HTTP requests.
+  - Website: [Burp Suite Community](https://portswigger.net/burp/communitydownload)
+
+- **ZAP (Zed Attack Proxy)**: Free tool for scanning web applications for vulnerabilities.
+  - Website: [ZAP](https://www.zaproxy.org/)
+
+- **sqlmap**: Automates SQL injection testing.
+  - GitHub: [sqlmap](https://github.com/sqlmapproject/sqlmap)
+
+- **Nmap**: Free network scanning tool.
+  - Website: [Nmap](https://nmap.org/)
+
+---
+
+### **3. Exploitation Skills**
+#### **a. Write-ups and Challenges**
+- **HackTheBox Write-ups**: Study write-ups from other hunters to learn how they exploited vulnerabilities.
+  - Website: [HackTheBox Write-ups](https://www.hackthebox.com/writeups)
+
+- **CTFTime**: Find free Capture The Flag (CTF) competitions to practice your skills.
+  - Website: [CTFTime](https://ctftime.org/)
+
+- **Exploit Exercises**: Virtual machines with vulnerable applications for practice.
+  - Website: [Exploit Exercises](https://exploit-exercises.com/)
+
+#### **b. Automation**
+- **AutomateThePlanet**: Learn how to automate tasks using Python or Bash.
+  - Website: [AutomateThePlanet](https://automatetheplanet.com/)
+
+- **GitHub Repositories**: Search for repositories with scripts for automating vulnerability scanning and exploitation.
+  - Example: [Awesome Bug Bounty](https://github.com/djadmin/awesome-bug-bounty)
+
+---
+
+### **4. Bug Bounty Platforms**
+#### **a. Free Programs**
+- **HackerOne Zero**: Participate in free bug bounty programs for educational purposes.
+  - Website: [HackerOne Zero](https://www.hackerone.com/zero)
+
+- **Bugcrowd Bug Bytes**: Free program to learn and practice bug bounty hunting.
+  - Website: [Bugcrowd Bug Bytes](https://www.bugcrowd.com/bugbytes)
+
+- **Intigriti Edu**: Educational program for new bug bounty hunters.
+  - Website: [Intigriti Edu](https://www.intigriti.com/edu)
+
+#### **b. Public Programs**
+- Explore public bug bounty programs on platforms like HackerOne, Bugcrowd, and Intigriti. Many offer free participation for newcomers.
+
+---
+
+### **5. Stay Updated**
+#### **a. Newsletters**
+- **Hacking Illustrated**: Weekly newsletter with bug bounty news and tips.
+  - Website: [Hacking Illustrated](https://hackingillustrated.substack.com/)
+
+- **Bugcrowd Roundup**: Weekly summary of bug bounty news and trends.
+  - Website: [Bugcrowd Roundup](https://www.bugcrowd.com/blog/roundup/)
+
+#### **b. Blogs**
+- **PortSwigger Blog**: Regular updates on web security and bug bounty hunting.
+  - Website: [PortSwigger Blog](https://portswigger.net/blog)
+
+- **OWASP Blog**: Insights into web application security.
+  - Website: [OWASP Blog](https://owasp.org/blog/)
+
+- **SANS Internet Storm Center**: Daily updates on cybersecurity threats.
+  - Website: [SANS ISC](https://isc.sans.edu/)
+
+#### **c. Podcasts**
+- **Darknet Diaries**: True stories from the dark side of the internet.
+  - Website: [Darknet Diaries](https://darknetdiaries.com/)
+
+- **Hak5**: Practical cybersecurity advice and tools.
+  - Website: [Hak5](https://hak5.org/)
+
+---
+
+### **6. Communities**
+#### **a. Forums**
+- **Reddit**: Engage with communities like r/netsec, r/bugbounty, and r/hacking.
+  - Website: [Reddit](https://www.reddit.com/)
+
+- **HackerOne Community**: Discuss bug bounty hunting with other hunters.
+  - Website: [HackerOne Community](https://www.hackerone.com/community)
+
+#### **b. Discord Servers**
+- Join Discord servers dedicated to bug bounty hunting and cybersecurity.
+  - Example: [Bug Bounty Hunters Discord](https://discord.gg/bugbounty)
+
+---
+
+### **7. Additional Resources**
+#### **a. Books (Free PDFs)**
+- **The Web Application Hacker's Handbook**: Available as a free PDF online.
+  - Website: [Web Application Hacker's Handbook](https://www.wiley.com/en-us/The+Web+Application+Hacker%27s+Handbook%2C+2nd+Edition-p-9781118026472)
+
+- **Penetration Testing: A Hands-On Introduction to Hacking**: Free PDF available online.
+  - Website: [Penetration Testing Book](https://nostarch.com/pentestinghandson)
+
+#### **b. GitHub Repositories**
+- **Awesome Bug Bounty**: Curated list of bug bounty resources.
+  - GitHub: [Awesome Bug Bounty](https://github.com/djadmin/awesome-bug-bounty)
+
+- **CTF Field Guide**: Google's guide to CTFs and cybersecurity challenges.
+  - Website: [Google CTF Field Guide](https://google.github.io/ctf-field-guide/)
+
+---
+
+By leveraging these free resources, you can build a strong foundation in bug bounty hunting and continuously improve your skills. Remember to stay ethical, persistent, and curious! Happy hunting! 🕵️‍♂️
